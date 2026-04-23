@@ -6,7 +6,7 @@ from handlers import common, education, quiz, faq
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = "8714921910:AAG8UxngcorHbxkbVDX9kzHLG6QwLaBI6Bg"
+BOT_TOKEN = "8010020077:AAHWOIW-z3ajvhO2ZV3BgiDNLp-AX-crn54"
 
 async def main():
     bot = Bot(token=BOT_TOKEN)
